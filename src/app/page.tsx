@@ -14,6 +14,7 @@ export default async function Home() {
         <p className="mt-4 text-gray-600 text-lg max-w-2xl mx-auto">
           Explore my experiences, projects, and lessons as I grow as a software developer.
         </p>
+{/* force rebuild */}
 
         <div className="mt-6 flex justify-center gap-4">
           <Link
